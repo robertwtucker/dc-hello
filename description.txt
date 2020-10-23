@@ -1,0 +1,2 @@
+﻿<B>Hello Component</B>
+Simple demonstration component with a customizable property.

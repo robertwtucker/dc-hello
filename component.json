@@ -1,0 +1,16 @@
+{
+    "name": "Hello",
+    "displayName": "Hello Component",
+    "version": "0.0.1",
+    "compatibility": 3,
+    "tags": [],
+    "libraries": [],
+    "displayType": "Block",
+    "properties": {
+        "Name": {
+            "type": "String",
+            "default": "World"
+        }
+    },
+    "defaultData": {}
+}
